@@ -33,11 +33,9 @@ Enterprise workflow design, human review, evaluation, privacy boundaries, and ad
 
 ### Campaign Response ML Solution Demo
 
-**In progress · public**
+**In progress · source private**
 
-An end-to-end machine-learning project covering problem framing, model comparison, stakeholder translation, and responsible deployment thinking. The repository is still a scaffold and is labeled accordingly.
-
-[Explore the project scaffold](https://github.com/april-gillespie/campaign-response-ml-solution-demo)
+A private end-to-end machine-learning learning project covering problem framing, model comparison, stakeholder translation, and responsible deployment thinking.
 
 ## Professional Evidence
 
