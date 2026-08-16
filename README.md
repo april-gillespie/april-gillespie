@@ -29,7 +29,7 @@ Designed and built a self-hosted household application using Docker, Nginx, Flas
 
 A collection of independently documented AI workflow case studies focused on structured intake, human review, evaluation, privacy boundaries, and adoption.
 
-[Explore the AI Workflow Portfolio](https://github.com/april-gillespie/ai-workflow-doc-assistant)
+[Explore the AI Workflow Portfolio](https://github.com/april-gillespie/ai-workflow-portfolio)
 
 ## Professional Evidence
 
