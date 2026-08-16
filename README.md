@@ -31,12 +31,6 @@ Enterprise workflow design, human review, evaluation, privacy boundaries, and ad
 
 [Explore the AI Workflow Portfolio](https://github.com/april-gillespie/ai-workflow-doc-assistant)
 
-### Campaign Response ML Solution Demo
-
-**In progress · source private**
-
-A private end-to-end machine-learning learning project covering problem framing, model comparison, stakeholder translation, and responsible deployment thinking.
-
 ## Professional Evidence
 
 ### PCB Design Fundamentals: From Discovery to Production
