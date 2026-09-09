@@ -1,46 +1,43 @@
 # April Gillespie
 
-**Technical Enablement | Customer Solutions | Applied AI & Automation**
+**Engineering education · Program ownership · Practical technology**
 
-I am an electrical engineer and technical enablement professional working at the intersection of customer adoption, technical education, workflow design, and applied AI. I turn complex technologies and ambiguous problems into practical systems, learning experiences, and repeatable solutions.
+Hello, I am April. I am an electrical engineer who enjoys bringing people, ideas, and complicated work together.
 
-[View my professional portfolio →](https://april-gillespie-ai-portfolio.aprilgillespie.chatgpt.site/)
+I care about what engineering makes possible for people. Today, that means supporting technical education, helping customers adopt new tools, and building practical systems that make work easier to carry forward. Across those efforts, I take responsibility for understanding the need, connecting the right people, and following through.
 
-## What I Work On
+My longer-term ambition is to help shape the future of engineering: supporting the next generation of engineers and helping today's workforce grow with changing technology.
 
-- Customer-facing technical enablement and product adoption
-- Technical education, workflow design, and repeatable delivery systems
-- Human-reviewed AI workflows with clear privacy and approval boundaries
-- Applied AI prototyping, evaluation, automation, and stakeholder translation
+[Explore my portfolio](https://april-gillespie-ai-portfolio.aprilgillespie.chatgpt.site/) · [Connect on LinkedIn](https://www.linkedin.com/in/april-ee)
 
-## Featured Work
+## Where I put that purpose into practice
 
-### Assist: Self-Hosted Family AI Dashboard
+### Helping engineers learn
 
-**Active build · source private**
+In my technical enablement work at Siemens, I coordinate academic engagements and support the people turning engineering tools into learning experiences.
 
-Designed and built a self-hosted household application using Docker, Nginx, Flask, REST APIs, and a locally hosted Ollama language model. The model interprets requests, Flask validates proposed actions, and the user confirms changes before existing application functions update household data. The backend includes limited conversational context, failure handling, and a 20-test suite.
+I contributed to the development and June 2026 launch of **PCB Design Fundamentals: From Discovery to Production**, the four-course ASU CareerCatalyst certificate created with Siemens. My contributions included Xpedition Standard labs, a mini-lesson, technical and learner-focused reviews, virtual learning environments, and continuing delivery support.
 
-[See the project overview in my portfolio](https://april-gillespie-ai-portfolio.aprilgillespie.chatgpt.site/#work)
+[Read about my education and enablement work](https://github.com/april-gillespie/ai-workflow-portfolio/blob/main/docs/case-studies/engineering-education-and-enablement.md) · [Explore the ASU program](https://careercatalyst.asu.edu/programs/pcb-design-fundamentals-certificate/)
 
-### AI Workflow Portfolio
+### Making everyday work easier to carry forward
 
-**Active · public · documentation-first**
+My [AI Workflow Portfolio](https://github.com/april-gillespie/ai-workflow-portfolio) documents how I approach customer feedback, review, learning, and practical support. Each example explains the need, the decisions I owned, and what the work can and cannot show.
 
-A collection of independently documented AI workflow case studies focused on structured intake, human review, evaluation, privacy boundaries, and adoption.
+These are case studies, workflow designs, and small experiments. AI supports the work; I remain responsible for scope, verification, and final decisions.
 
-[Explore the AI Workflow Portfolio](https://github.com/april-gillespie/ai-workflow-portfolio)
+### Building from a need close to home
 
-## Professional Evidence
+**Assist** is a personal household application I designed and built using a locally hosted language model and a Flask backend. It explores how a family can ask for help in everyday language while staying in control of changes. The source remains private.
 
-### PCB Design Fundamentals: From Discovery to Production
+[See the project overview](https://april-gillespie-ai-portfolio.aprilgillespie.chatgpt.site/#work)
 
-**Contributed to**
+## How I lead and build
 
-Contributed to the development and June 2026 launch of a 40-hour, four-course ASU CareerCatalyst professional certificate created in collaboration with Siemens. My contributions included hands-on Xpedition Standard labs, a mini-lesson, technical and learner-focused reviews, Skillable virtual machine support, and continuing program delivery support.
+I listen carefully, make responsibilities clear, draw on other people's expertise, and stay involved as the work moves from an idea into use. I care about the handoff, the unanswered question, and whether the person using what we built feels ready for their next step.
 
-[View the program on ASU CareerCatalyst](https://careercatalyst.asu.edu/programs/pcb-design-fundamentals-certificate/)
+My foundation spans electrical engineering, aerospace systems, field applications, and technical education. I keep learning because the work I want to contribute to keeps growing.
 
-## Public-Work Boundaries
+## About the public work
 
-Public portfolio materials are independently created, sanitized, generalized, or built with synthetic data. They do not include employer-owned work product, customer information, confidential materials, proprietary systems, or private source data.
+Public artifacts are independently created, generalized, sanitized, or built with synthetic data. Professional contributions are described at a high level; employer-owned materials, customer information, and private source data are not included.
